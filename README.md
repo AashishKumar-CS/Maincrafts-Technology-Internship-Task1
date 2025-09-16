@@ -1,4 +1,4 @@
-# Maincrafts-Technology-Internship-Task1
+# Maincrafts-Technology-Internship-Tasks
 
 # ASHTECH Landing Page
 
